@@ -11,6 +11,7 @@ var z = currentHour * 30 + ((30/60)*currentMinute + (((30/60)/60)*currentSecond)
 // 'x' is the degree value of the secondHand 'Transform[Rotate]'
 // 'y' is the degree value of the minuteHand 'Transform[Rotate]'
 // 'z' is the degree value of the hourHand 'Transform[Rotate]'
+//heu
 setInterval(function () {
   x += 6/100;
   y += (6/100/60);
