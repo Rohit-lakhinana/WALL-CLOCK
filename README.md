@@ -1,2 +1,2 @@
-# WALL-CLOCK
+#WALL-CLOCK
 Javascript , html, css
