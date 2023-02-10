@@ -1,2 +1,2 @@
 #WALL-CLOCK
-Javascript , html, css
+JAVASCRIPT , HTML, CSS
