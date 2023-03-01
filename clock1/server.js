@@ -12,8 +12,8 @@ app.get("/clock", function(req,res){
     })
 })
 
-app.listen(8000, function(){
-    console.log("server is started with the port number 8000")
+app.listen(2000, function(){
+    console.log("server is started with the port number 2000")
 });
 
 //URL'S TO RUN THE HTML FILES
